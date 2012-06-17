@@ -1,6 +1,10 @@
-Belorus+++---
+elorus+++---
 Ykrains+++---
 Kitai+++
+Belorus+
+Ykraina+
+Kitai+
+
 8
 1
 2
