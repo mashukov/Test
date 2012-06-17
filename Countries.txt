@@ -1,9 +1,6 @@
-Beloressia
-Ykraina
-Franch
-Russia
-0
-9
+Belll
+YYYYkr
+Kittt
 8
 1
 2
@@ -15,3 +12,7 @@ Rossiya
 Belarus
 Franch
 Itali
+Beloressia
+Ykraina
+Franch
+Russia
